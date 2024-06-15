@@ -1,0 +1,15 @@
+PID,Codigo,Clasificacion de metrica,Unidad,Descripcion,Tipo de alerta,Valor
+p1,pfg,sangre,mg/mmol,Nivel de glucosa,,16
+p2,pfg,sangre,mg/mmol,Nivel de glucosa,,16
+p3,pfg,sangre,mg/mmol,Nivel de glucosa,,16
+p4,pfg,sangre,mg/mmol,Nivel de glucosa,,16
+p5,pfg,sangre,mg/mmol,Nivel de glucosa,,18
+p6,pfg,sangre,mg/mmol,Nivel de glucosa,,30
+p1,trt,sangre,U/ml,insulina,0,20
+p2,trt,sangre,U/ml,insulina,0,2
+p3,trt,sangre,U/ml,insulina,0,3
+p8,trt,sangre,U/ml,insulina,0,5
+p9,trt,sangre,U/ml,insulina,0,6
+p10,trt,sangre,U/ml,insulina,0,10
+p11,trt,sangre,U/ml,insulina,0,1
+p12,trt,sangre,U/ml,insulina,0,1
